@@ -62,3 +62,11 @@ footer.page-footer {
   margin: 0;
   background: linear-gradient(to right bottom, #925b45, #2697b5) !important;
 }
+
+.icon-color-blue {
+  color: #2697b5;
+}
+
+.icon-color-brown {
+  color: #925b45;
+}
