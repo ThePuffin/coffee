@@ -13,7 +13,7 @@ nav .brand-logo {
 
 h1 {
   margin-top: 1.5vh;
-  color: brown;
+  color: #a3908a;
   font-size: 8vw;
 }
 
@@ -22,7 +22,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #2697b5;
 }
 
 .parallax-container {
@@ -60,4 +60,5 @@ p {
 
 footer.page-footer {
   margin: 0;
+  background: linear-gradient(to right bottom, #925b45, #2697b5) !important;
 }
